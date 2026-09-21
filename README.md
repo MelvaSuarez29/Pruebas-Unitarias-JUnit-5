@@ -40,7 +40,7 @@ Las pruebas unitarias se encuentran dentro de la carpeta `src/test/java`.
 
 ## Pruebas unitarias
 
-Las pruebas se diseñan considerando las reglas de negocio relevantes, los valores límite donde cambia el comportamiento y los casos de error que deben generar excepciones.
+Se diseña considerando las reglas de negocio relevantes, los valores límite donde cambia el comportamiento y los casos de error que deben generar excepciones.
 
 Cada prueba sigue el patrón:
 
@@ -50,8 +50,4 @@ Cada prueba sigue el patrón:
 
 ## Refactorización
 
-El proyecto también incluye una etapa de refactorización para mejorar la estructura del código y aplicar el principio **SRP (Single Responsibility Principle)**, manteniendo el comportamiento original del programa.
-
-## Objetivo
-
-Aplicar buenas prácticas de pruebas unitarias en Java mediante **JUnit 5**, identificando los casos más relevantes de una lógica de negocio y mejorando el diseño del código mediante pruebas y refactorización.
+Incluye una etapa de refactorización para mejorar la estructura del código y aplicar el principio **SRP  Single Responsibility Principle**, manteniendo el comportamiento original del programa.
